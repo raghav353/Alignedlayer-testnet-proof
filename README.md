@@ -70,13 +70,13 @@ Use the explorer link in CMD to check if verified and you'll also see below imag
 ----------------------
 ### Tweet exactly as screenshot and Submit Proof in Dscord 
 
-![image](https://github.com/mztacat/Alignedlayer-Testnet-Proof-/assets/31314340/91eb3840-5a65-4bf5-b617-b2b4b3c56e72)
+<img width="459" alt="image" src="https://github.com/raghav353/Alignedlayer-testnet-proof/assets/151916837/c9a62ca8-6c64-4835-be7a-282f44fc124c">
 
 
 
 --------------------------
 ### Submit in Discord 
-![image](https://github.com/mztacat/Alignedlayer-Testnet-Proof-/assets/31314340/222ac207-1ad8-49e1-b079-b384c7e7a8ae)
+<img width="901" alt="image" src="https://github.com/raghav353/Alignedlayer-testnet-proof/assets/151916837/e5c74a22-20a6-4b11-9e24-095465341ba6">
 
 
 # JOIN DISCORD FROM PROFILE 

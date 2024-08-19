@@ -17,6 +17,7 @@ sudo apt upgrade -y
 sudo apt-get install curl -y
 ```
 
+
 ### Download ALignedProof 
 <img width="806" alt="image" src="https://github.com/raghav353/Alignedlayer-testnet-proof/assets/151916837/2bc4977d-7edf-405f-ace7-68273c01d4e9">
 

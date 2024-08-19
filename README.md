@@ -11,6 +11,7 @@ sudo apt update -y
 sudo apt upgrade -y
 ```
 
+
 ### Install curl 
 ```
 sudo apt-get install curl -y
